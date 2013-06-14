@@ -164,6 +164,8 @@ data-main属性にトップレベルモジュールを指定します。
 
 このように目的のオブジェクトが生成されています。
 
+![出力結果](https://raw.github.com/hirayama-evolni/misc-docs/master/require_js_introduction/requirejs1.png)
+
 ## まとめ
 
 jQueryで少し効果を付けるくらいであれば不要だと思いますが、クライアント
