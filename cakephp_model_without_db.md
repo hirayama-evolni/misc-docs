@@ -49,6 +49,10 @@ DBアクセスが発生してしまうので、$dataに直接設定します。
     $this->Model->data = $this->request->data;
 ```
 
+参考：
+- http://book.cakephp.org/2.0/en/models/model-attributes.html#data
+- http://api.cakephp.org/2.3/class-Model.html#$data
+
 ## まとめ
 
 これで`$this->Model->validates()`しても大丈夫なはずです。
